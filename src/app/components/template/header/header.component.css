@@ -1,5 +1,5 @@
 img {
-    height: 22rem;
+    height: 3.5rem;
 }
 
 .header {
@@ -14,4 +14,5 @@ span {
 
 h1 {
     padding-left: 1.5rem;
+    font-size: 1.5rem;
 }
