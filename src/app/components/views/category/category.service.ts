@@ -43,7 +43,7 @@ export class CategoryService {
       this._snack.open(`${str}`, 'OK', {
         horizontalPosition: 'end',
         verticalPosition: 'top',
-        duration: 2000
+        duration: 3000
       })
   }
 }
